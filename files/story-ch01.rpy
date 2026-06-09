@@ -26,7 +26,7 @@ translate spanish story_e2c2950c:
 translate spanish story_aa924373:
 
     # "Aaah...it's a nice night. Not too cold, but just warm enough to enjoy a nice cold one before bed."
-    "Aaah... Qué buena noche. No hace demasiada rasca, la temperatura es ideal para disfrutar de un refresco fresquito antes de dormir."
+    "Ahhh... Qué buena noche. No hace demasiada rasca, la temperatura es ideal para disfrutar de un refresco fresquito antes de dormir."
 
 # game/story.rpy:24
 translate spanish story_aa79aa7e:
@@ -1280,13 +1280,13 @@ translate spanish story_865ac25f:
 translate spanish story_f3d5b1d4:
 
     # mc "{b}I'm freaking out...This has {i}GOT{/i} to be a very elaborate dream.{/b}"
-    mc "{b}Estoy flipando... Esto tiene que ser un sueño muy elaborado.{/b}"
+    mc "{i}Estoy flipando... Esto tiene que ser un sueño muy elaborado.{/i}"
 
 # game/story.rpy:475
 translate spanish story_bb8b41f9:
 
     # mc "{b}I mean first, to wake up in the MC's room-{/b}"
-    mc "{b}O sea, para empezar, despertarme en la habitación del prota...{/b}"
+    mc "{i}O sea, para empezar, despertarme en la habitación del prota...{/i}"
 
 # game/story.rpy:476
 translate spanish story_d0a53a59:
@@ -3266,7 +3266,7 @@ translate spanish story_678c967b:
 translate spanish story_0380f15c:
 
     # mc "{b}What café is she talking about?{/b}"
-    mc "{b}¿De qué cafetería habla?{/b}"
+    mc "{i}¿De qué cafetería habla?{/i}"
 
 # game/story.rpy:862
 translate spanish story_d1ffc36b:
@@ -3278,19 +3278,19 @@ translate spanish story_d1ffc36b:
 translate spanish story_5bbc3b82:
 
     # mc "{b}Oooh, sounds like a great idea!{/b}"
-    mc "{b}Hala, ¡parece una idea genial!{/b}"
+    mc "{i}Hala, ¡parece una idea genial!{/i}"
 
 # game/story.rpy:864
 translate spanish story_b742a82e:
 
     # mc "{b}And I just noticed, but we're talking to each other without me talking out loud.{/b}"
-    mc "{b}Por cierto, me acabo de dar cuenta de que estamos hablando sin que yo diga nada en voz alta.{/b}"
+    mc "{i}Por cierto, me acabo de dar cuenta de que estamos hablando sin que yo diga nada en voz alta.{/i}"
 
 # game/story.rpy:865
 translate spanish story_1d064482:
 
     # mc "{b}Good to know we can do that.{/b}"
-    mc "{b}Es bueno saber que podemos hacer eso.{/b}"
+    mc "{i}Es bueno saber que podemos hacer eso.{/i}"
 
 # game/story.rpy:866
 translate spanish story_45f0ee4c:
@@ -3302,7 +3302,7 @@ translate spanish story_45f0ee4c:
 translate spanish story_608aaa59:
 
     # mc "{b}Heh, true.{/b}"
-    mc "{b}Ya, es verdad.{/b}"
+    mc "{i}Ya, es verdad.{/i}"
 
 # game/story.rpy:868
 translate spanish story_cf11ab2f:
@@ -3410,7 +3410,7 @@ translate spanish story_efb51d33:
 translate spanish story_dfcf4b9a:
 
     # mc "{b}I didn't realize your mom was that kind of mom.{/b}"
-    mc "{b}No me había dado cuenta de que tu madre fuera ese tipo de madre.{/b}"
+    mc "{i}No me había dado cuenta de que tu madre fuera ese tipo de madre.{/i}"
 
 # game/story.rpy:893
 translate spanish story_961e3a86:
@@ -3422,7 +3422,7 @@ translate spanish story_961e3a86:
 translate spanish story_20d2feab:
 
     # mc "{b}It's fine. I can deal.{/b}"
-    mc "{b}No pasa nada. Puedo soportarlo.{/b}"
+    mc "{i}No pasa nada. Puedo soportarlo.{/i}"
 
 # game/story.rpy:895
 translate spanish story_fe91987b:
@@ -3446,7 +3446,7 @@ translate spanish story_47db4027:
 translate spanish story_fcf97fcb:
 
     # mc "{b}No, don't be. I'm scared too, believe me. Also, thank you for believing me about this world being a game.{/b}"
-    mc "{b}No, no lo sientas. Yo también estoy asustado, créeme. Además, gracias por creerme con lo de que este mundo es un videojuego.{/b}"
+    mc "{i}No, no lo sientas. Yo también estoy asustado, créeme. Además, gracias por creerme con lo de que este mundo es un videojuego.{/i}"
 
 # game/story.rpy:903
 translate spanish story_6c977a5e:
@@ -3458,7 +3458,7 @@ translate spanish story_6c977a5e:
 translate spanish story_92e187d7:
 
     # mc "{b}That's understandable. But I promise that it's the truth. I wouldn't make something that silly up in this situation.{/b}"
-    mc "{b}Es comprensible. Pero te prometo que es la verdad. No me inventaría una tontería así en una situación como esta.{/b}"
+    mc "{i}Es comprensible. Pero te prometo que es la verdad. No me inventaría una tontería así en una situación como esta.{/i}"
 
 # game/story.rpy:905
 translate spanish story_153e6531:
@@ -3470,7 +3470,7 @@ translate spanish story_153e6531:
 translate spanish story_e5a68a76:
 
     # mc "{b}I understand.{/b}"
-    mc "{b}Ya, lo entiendo.{/b}"
+    mc "{i}Ya, lo entiendo.{/b}"
 
 # game/story.rpy:907
 translate spanish story_c4f6fd8b:
@@ -3524,7 +3524,7 @@ translate spanish story_61f6ea93:
 translate spanish story_24d07c3b:
 
     # mc "{b}Really?{/b}"
-    mc "{b}¿En serio?{/b}"
+    mc "{i}¿En serio?{/i}"
 
 # game/story.rpy:919
 translate spanish story_eddf3385:
@@ -3536,7 +3536,7 @@ translate spanish story_eddf3385:
 translate spanish story_aea76108:
 
     # mc "{b}...Okay, fair enough.{/b}"
-    mc "{b}Vale, me parece justo.{/b}"
+    mc "{i}Vale, me parece justo.{/i}"
 
 # game/story.rpy:921
 translate spanish story_eaf6d4e4:
