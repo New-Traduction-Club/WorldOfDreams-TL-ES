@@ -26,7 +26,7 @@ translate spanish story_e2c2950c:
 translate spanish story_aa924373:
 
     # "Aaah...it's a nice night. Not too cold, but just warm enough to enjoy a nice cold one before bed."
-    "Aaah... Qué buena noche. No hace demasiado frío, la temperatura es ideal para disfrutar de un refresco bien frío antes de dormir."
+    "Aaah... Qué buena noche. No hace demasiada rasca, la temperatura es ideal para disfrutar de un refresco fresquito antes de dormir."
 
 # game/story.rpy:24
 translate spanish story_aa79aa7e:
@@ -1868,7 +1868,7 @@ translate spanish story_79dee56d:
 translate spanish story_99a0d553:
 
     # mc "Alright. For starters, why don't we spend part of today with Sayori?"
-    mc "Vale Para empezar, ¿por qué no pasamos parte del día de hoy con Sayori?"
+    mc "Vale. Para empezar, ¿por qué no pasamos parte del día de hoy con Sayori?"
 
 # game/story.rpy:584
 translate spanish story_b0f69b54:
@@ -2504,7 +2504,7 @@ translate spanish story_8d579d90:
 translate spanish story_7e44673f:
 
     # mc "How long have you been awake?"
-    mc "¿Cuánto tiempo llevas despiero?"
+    mc "¿Cuánto tiempo llevas despierto?"
 
 # game/story.rpy:714
 translate spanish story_83fee47c:
@@ -3903,6 +3903,7 @@ translate spanish story_787cf0d3:
 
     # s 4hj "Moooom! Meanie..."
     s 4hj "¡Mamááá!"
+    s "Malo..."
 
 # game/story.rpy:1022
 translate spanish story_4ef038e9:
