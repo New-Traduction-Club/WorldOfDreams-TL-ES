@@ -3217,295 +3217,295 @@ translate spanish story_25ab72b0:
 translate spanish story_8a6b092c:
 
     # mc "Heh, well I did have a busy day."
-    mc ""
+    mc "Je, bueno, he tenido un día movidito."
 
 # game/story.rpy:1927
 translate spanish story_9a255957:
 
     # cm "{i}Anime now, please?{/i}"
-    cm ""
+    cm "{i}¿Ponemos anime ya, porfa?{/i}"
 
 # game/story.rpy:1928
 translate spanish story_961b9404:
 
     # mc "{b}Yeah, hold on.{/b}"
-    mc ""
+    mc "{b}Sí, un momento.{/b}"
 
 # game/story.rpy:1929
 translate spanish story_78b120f5:
 
     # mc "Hey, you guys? I'm gonna head up to my room and relax now."
-    mc ""
+    mc "Bueno, familia, voy a subir a mi cuarto a descansar un rato."
 
 # game/story.rpy:1930
 translate spanish story_1ae24e42:
 
     # mc "I'm a bit tired from all that walking."
-    mc ""
+    mc "Estoy un poco cansado de tanto andar."
 
 # game/story.rpy:1932
 translate spanish story_978a8b87:
 
     # dad 5bc "Okay, just try not to stay up late, okay?"
-    dad 5bc ""
+    dad 5bc "Vale, pero intenta no quedarte despierto hasta muy tarde, ¿eh?"
 
 # game/story.rpy:1935
 translate spanish story_3c5a1add:
 
     # mc "I won't, I promise."
-    mc ""
+    mc "No lo haré, lo prometo."
 
 # game/story.rpy:1936
 translate spanish story_b7eeb17f:
 
     # mom 1bb "Goodnight, Meiji."
-    mom 1bb ""
+    mom 1bb "Buenas noches, Meiji."
 
 # game/story.rpy:1938
 translate spanish story_33400569:
 
     # dad 5bb "Night, Meiji."
-    dad 5bb ""
+    dad 5bb "Buenas noches, Meiji."
 
 # game/story.rpy:1940
 translate spanish story_1260965b:
 
     # mc "Night, Mom, night Dad."
-    mc ""
+    mc "Buenas noches, mamá. Buenas noches, papá."
 
 # game/story.rpy:1945
 translate spanish story_5cd3dd8f:
 
     # "When we get back to the room, I open my laptop and we watch the first few episodes of one of my favorite anime."
-    ""
+    "Cuando volvemos a la habitación, abro el portátil y vemos los primeros episodios de uno de mis animes favoritos."
 
 # game/story.rpy:1946
 translate spanish story_82b59c61:
 
     # "Meiji enjoys every episode we watch. I look at the clock after episode five."
-    ""
+    "Meiji disfruta cada episodio. Miro el reloj después del quinto."
 
 # game/story.rpy:1947
 translate spanish story_38dcb463:
 
     # mc "Damn it, we should be sleeping now."
-    mc ""
+    mc "Maldita sea, ya deberíamos estar durmiendo."
 
 # game/story.rpy:1948
 translate spanish story_bc2e8fe9:
 
     # cm "{i}Aw, come on. One more episode?{/i}"
-    cm ""
+    cm "{i}Venga ya. ¿Un episodio más?{/i}"
 
 # game/story.rpy:1949
 translate spanish story_d4b97058:
 
     # mc "Now I see why Sayori and your mom are so worried about you."
-    mc ""
+    mc "Ahora entiendo por qué Sayori y tu madre se preocupan tanto por ti."
 
 # game/story.rpy:1950
 translate spanish story_04fe2585:
 
     # cm "{i}Fine fine, but we're finishing it tomorrow.{/i}"
-    cm ""
+    cm "{i}Vale, vale, pero lo terminamos mañana.{/i}"
 
 # game/story.rpy:1951
 translate spanish story_cfc694d4:
 
     # mc "Fine, fine."
-    mc ""
+    mc "Vale."
 
 # game/story.rpy:1956
 translate spanish story_be6d4232:
 
     # "I first close the curtains, then pull out Meiji's phone, plug it in to be charged and set an alarm."
-    ""
+    "Primero cierro las cortinas, luego saco el móvil de Meiji, lo enchufo a cargar y pongo una alarma."
 
 # game/story.rpy:1957
 translate spanish story_32851133:
 
     # mc "What time do you set your alarm?"
-    mc ""
+    mc "¿A qué hora sueles ponerla?"
 
 # game/story.rpy:1958
 translate spanish story_07ac65e6:
 
     # cm "{i}6:45.{/i}"
-    cm ""
+    cm "{i}A las 6:45.{/i}"
 
 # game/story.rpy:1959
 translate spanish story_38bbb77c:
 
     # "I set it for 6:30 instead just so I can have time in the morning."
-    ""
+    "La pongo a las 6:30 para tener algo de margen por la mañana."
 
 # game/story.rpy:1960
 translate spanish story_70f3c756:
 
     # "I change into the pajamas I was in earlier."
-    ""
+    "Me pongo el pijama que llevaba antes."
 
 # game/story.rpy:1961
 translate spanish story_e8b5fe03:
 
     # mc "Goodnight."
-    mc ""
+    mc "Buenas noches."
 
 # game/story.rpy:1962
 translate spanish story_826c25cb:
 
     # cm "{i}Goodnight.{/i}"
-    cm ""
+    cm "{i}Buenas noches.{/i}"
 
 # game/story.rpy:1963
 translate spanish story_435da079:
 
     # "And with that, he's out like a light."
-    ""
+    "Y, con eso, se queda frito al instante."
 
 # game/story.rpy:1964
 translate spanish story_2bce23e8:
 
     # "I search for the school uniform and find it hanging up in the closet."
-    ""
+    "Busco el uniforme del instituto y lo encuentro colgado en el armario."
 
 # game/story.rpy:1965
 translate spanish story_f2dd6f0e:
 
     # "Well, I'm ready for tomorrow."
-    ""
+    "Bueno, ya estoy listo para mañana."
 
 # game/story.rpy:1970
 translate spanish story_10f8dd72:
 
     # "I turn off the light, get into bed and fall asleep..."
-    ""
+    "Apago la luz, me meto en la cama y me quedo dormido..."
 
 # game/story.rpy:1984
 translate spanish story_94b613c2:
 
     # "I wake the next morning early as planned."
-    ""
+    "Me despierto temprano a la mañana siguiente, tal y como había planeado."
 
 # game/story.rpy:1986
 translate spanish story_f8e0e203:
 
     # "I turn off the alarm and sleepily sit up."
-    ""
+    "Apago la alarma y me incorporo medio dormido."
 
 # game/story.rpy:1987
 translate spanish story_c3285a96:
 
     # mc "Meiji? You awake yet?"
-    mc ""
+    mc "¿Meiji? ¿Estás despierto ya?"
 
 # game/story.rpy:1988
 translate spanish story_db2e5a2b:
 
     # "I get no response. How does he do that?"
-    ""
+    "No responde. ¿Cómo lo hace?"
 
 # game/story.rpy:1993
 translate spanish story_bb04a574:
 
     # "I open the shades then head downstairs."
-    ""
+    "Abro las persianas y bajo las escaleras."
 
 # game/story.rpy:1999
 translate spanish story_fe576c9c:
 
     # "I take a shower then slip into the school uniform. It's been a while since I've tied a tie, but I eventually get it."
-    ""
+    "Me doy una ducha y me pongo el uniforme. Hace tiempo que no me hago el nudo de la corbata, pero al final lo consigo."
 
 # game/story.rpy:2000
 translate spanish story_c8deb497_1:
 
     # mc "Perfect!"
-    mc ""
+    mc "¡A la tercera!"
 
 # game/story.rpy:2005
 translate spanish story_48f4c286:
 
     # "I pour myself a bowl of cereal and get a couple slices of bread as well."
-    ""
+    "Me sirvo un tazón de cereales y cojo también un par de rebanadas de pan."
 
 # game/story.rpy:2006
 translate spanish story_7c52018e:
 
     # "Gotta get all those carbs, son!"
-    ""
+    "¡Hay que meterse esos carbohidratos para el cuerpo!"
 
 # game/story.rpy:2007
 translate spanish story_5717d97f:
 
     # "I look around for Meiji's parents but I don't see them. Probably at work. I wonder what they do anyway?"
-    ""
+    "Busco a los padres de Meiji con la mirada, pero no los veo. Probablemente estén trabajando. Me pregunto a qué se dedicarán."
 
 # game/story.rpy:2008
 translate spanish story_f2ed922b:
 
     # "When I'm finished, I feel Meiji begin waking up."
-    ""
+    "Cuando termino, siento que Meiji empieza a despertarse."
 
 # game/story.rpy:2009
 translate spanish story_04745459:
 
     # mc "Good morning, sleepyhead, how was your night?"
-    mc ""
+    mc "Buenos días, marmota. ¿Qué tal la noche?"
 
 # game/story.rpy:2010
 translate spanish story_8b83d608:
 
     # cm "{i}Not bad, actually.{/i}"
-    cm ""
+    cm "{i}No ha estado mal.{/i}"
 
 # game/story.rpy:2011
 translate spanish story_56bbf6c3:
 
     # cm "{i}So...we're waiting to walk Sayori home today, right?{/i}"
-    cm ""
+    cm "{i}Hoy esperaremos a Sayori para volver a casa, ¿no?{/i}"
 
 # game/story.rpy:2012
 translate spanish story_fbb97c8b:
 
     # mc "That's right. And we're going to do actual homework, not just say we did."
-    mc ""
+    mc "Sí. Y vamos a hacer los deberes, nada de fingir que los hemos hecho."
 
 # game/story.rpy:2013
 translate spanish story_63194777:
 
     # cm "{i}Homework...{/i}"
-    cm ""
+    cm "{i}Deberes...{/i}"
 
 # game/story.rpy:2014
 translate spanish story_abf2f5eb:
 
     # "I feel Meiji space out."
-    ""
+    "Siento cómo Meiji se queda ensimismado."
 
 # game/story.rpy:2016
 translate spanish story_e96f2f6f:
 
     # "Ignoring that, I wash my face, grab Meiji's school bag and walk out."
-    ""
+    "Hago caso omiso, me lavo la cara, cojo la mochila de Meiji y salgo a la calle."
 
 # game/story.rpy:2022
 translate spanish story_4e1ff017:
 
     # "It's a beautiful morning, just like yesterday. A bit colder because according to Meiji's phone it's only 7:30 in the morning."
-    ""
+    "Hace una mañana preciosa, igual que ayer. Un poco más fresca porque, según el móvil de Meiji, son solo las 7:30 de la mañana."
 
 # game/story.rpy:2023
 translate spanish story_41e273ca:
 
     # s "Heeeeeeeyyy!!"
-    s ""
+    s "¡Eeeeyyy!"
 
 # game/story.rpy:2024
 translate spanish story_50c8d2f4:
 
     # "I turn and see a bubbly little blur of energy running towards me. I wait for her to join me."
-    ""
+    "Me giro y veo a un torbellino de energía corriendo hacia mí. Espero a que me alcance."
 
 # game/story.rpy:2026
 translate spanish story_49136618:
