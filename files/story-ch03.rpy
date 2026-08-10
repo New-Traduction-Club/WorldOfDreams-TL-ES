@@ -1228,6 +1228,7 @@ translate spanish story_ed6aed31:
 
     # ko 5wb "...Have we?"
     ko 5wb "¿Ah, sí?"
+    ko "..."
 
 # game/story.rpy:2480
 translate spanish story_35d6e8de:
@@ -1336,6 +1337,7 @@ translate spanish story_09d31771:
 
     # mc "Just curious, how many jobs do you have?"
     mc "¿Eh?"
+    mc "Pero bueno, ya por curiosidad, ¿cuántos trabajos tienes?"
 
 # game/story.rpy:2504
 translate spanish story_0013dd48:
