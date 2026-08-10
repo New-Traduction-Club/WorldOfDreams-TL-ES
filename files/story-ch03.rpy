@@ -1215,307 +1215,307 @@ translate spanish story_accbce3a:
 translate spanish story_605bef73:
 
     # mc "We should be done by then, I think."
-    mc ""
+    mc "Creo que habremos terminado para entonces."
 
 # game/story.rpy:2478
 translate spanish story_1f4a1425:
 
     # mc "Um, also, forgive me if I'm wrong, but haven't we met before?"
-    mc ""
+    mc "Ey..., perdona si me equivoco, ¿no nos conocemos de antes?"
 
 # game/story.rpy:2479
 translate spanish story_ed6aed31:
 
     # ko 5wb "...Have we?"
-    ko 5wb ""
+    ko 5wb "¿Ah, sí?"
 
 # game/story.rpy:2480
 translate spanish story_35d6e8de:
 
     # ko 1wc "Oh! You're the guy who I helped at my other job yesterday!"
-    ko 1wc ""
+    ko 1wc "¡Anda, pero si eres el chico a quien atendí ayer en mi otro trabajo!"
 
 # game/story.rpy:2481
 translate spanish story_e3ad7cf2:
 
     # ko 3wd "Four cinnamon buns, right?"
-    ko 3wd ""
+    ko 3wd "Cuatro rollos de canela, ¿verdad?"
 
 # game/story.rpy:2483
 translate spanish story_7790d689:
 
     # mc "Heh, that's me."
-    mc ""
+    mc "Yep, ese soy yo."
 
 # game/story.rpy:2484
 translate spanish story_1b843f46:
 
     # ko 9wzf "And how were they? Top notch, were they not?"
-    ko 9wzf ""
+    ko 9wzf "¿Y qué tal estaban? De primera categoría, ¿a que sí?"
 
 # game/story.rpy:2486
 translate spanish story_890fbaa6:
 
     # mc "They were amazing."
-    mc ""
+    mc "Estaban increíbles."
 
 # game/story.rpy:2487
 translate spanish story_852eb448:
 
     # ko 7wk "Of course, because yours truly works there!"
-    ko 7wk ""
+    ko 7wk "Por supuesto, ¡porque una servidora trabaja allí!"
 
 # game/story.rpy:2489
 translate spanish story_2f883fde:
 
     # "She's an interesting character."
-    ""
+    "Es una chica de lo más interesante."
 
 # game/story.rpy:2490
 translate spanish story_0291b497:
 
     # ko 4wb "By the way, I think I've seen you even before that. Do you go to Sakura Academy?"
-    ko 4wb ""
+    ko 4wb "Por cierto, creo que te había visto incluso antes de eso. ¿Vas a la Academia Sakura?"
 
 # game/story.rpy:2492
 translate spanish story_f17b5fad:
 
     # mc "Yeah, I do."
-    mc ""
+    mc "Sí, así es."
 
 # game/story.rpy:2493
 translate spanish story_05085c73:
 
     # mc "{b}Meiji, do you know her?{/b}"
-    mc ""
+    mc "{b}Meiji, ¿la conoces?{/b}"
 
 # game/story.rpy:2494
 translate spanish story_693570a6:
 
     # cm "{i}She looks vaguely familiar, but I can't remember where I've seen her.{/i}"
-    cm ""
+    cm "{i}Me suena de algo, pero no recuerdo de qué.{/i}"
 
 # game/story.rpy:2495
 translate spanish story_9bb118aa:
 
     # ko 8wc "I'm third year Chiba Kotonoha, class 3-F."
-    ko 8wc ""
+    ko 8wc "Soy de tercero. Chiba Kotonoha, clase 3-F."
 
 # game/story.rpy:2497
 translate spanish story_7583a39d:
 
     # mc "I'm third year Chizu Meiji, class 3-A."
-    mc ""
+    mc "Yo también soy de tercero. Chizu Meiji, clase 3-A."
 
 # game/story.rpy:2498
 translate spanish story_ea1838ac:
 
     # cm "{i}Chiba...that family name sounds familiar...{/i}"
-    cm ""
+    cm "{i}Chiba... ese apellido me suena...{/i}"
 
 # game/story.rpy:2499
 translate spanish story_cd4c14a2:
 
     # ko 1wh "Nice to officially meet you."
-    ko 1wh ""
+    ko 1wh "Encantada de conocerte."
 
 # game/story.rpy:2500
 translate spanish story_dafa5c80:
 
     # mc "Heh, same to you."
-    mc ""
+    mc "El gusto es mío."
 
 # game/story.rpy:2501
 translate spanish story_04f63709:
 
     # ko 9wzf "Ohoho, of course! It is always a pleasure to meet {i}me{/i}."
-    ko 9wzf ""
+    ko 9wzf "¡Jo, jo, jo, por supuesto! Siempre es un placer conocerme a mí."
 
 # game/story.rpy:2503
 translate spanish story_09d31771:
 
     # mc "Just curious, how many jobs do you have?"
-    mc ""
+    mc "¿Eh?"
 
 # game/story.rpy:2504
 translate spanish story_0013dd48:
 
     # ko 3wb "Just the two."
-    ko 3wb ""
+    ko 3wb "Solo dos."
 
 # game/story.rpy:2505
 translate spanish story_e4997081:
 
     # ko 8wc "I work here after school on most school nights, and at that café on the weekends."
-    ko 8wc ""
+    ko 8wc "Trabajo aquí después de clase la mayoría de los días lectivos, y en esa cafetería los fines de semana."
 
 # game/story.rpy:2506
 translate spanish story_def809b9:
 
     # ko 8wa "And sometimes I work at other places I used to work at if they're short-handed."
-    ko 8wa ""
+    ko 8wa "Y a veces trabajo en otros sitios donde estuve empleada si les falta personal."
 
 # game/story.rpy:2507
 translate spanish story_052ba8f9:
 
     # mc "Oh? That's pretty cool."
-    mc ""
+    mc "¿Ah, sí? Pues mola bastante."
 
 # game/story.rpy:2508
 translate spanish story_64bada46:
 
     # ko 9wzf "Indeed it is."
-    ko 9wzf ""
+    ko 9wzf "Desde luego que sí."
 
 # game/story.rpy:2509
 translate spanish story_068ecc5d:
 
     # ko 3wd "So, do you need help finding anything?"
-    ko 3wd ""
+    ko 3wd "En fin, ¿necesitas ayuda para encontrar algo?"
 
 # game/story.rpy:2511
 translate spanish story_3001095c:
 
     # mc "Right! I got distracted so I forgot."
-    mc ""
+    mc "¡Ah, claro! Me había distraído y se me olvidó."
 
 # game/story.rpy:2512
 translate spanish story_b4a14898:
 
     # ko 2wl "My apologies."
-    ko 2wl ""
+    ko 2wl "Mis disculpas."
 
 # game/story.rpy:2514
 translate spanish story_f5b3dd0e:
 
     # mc "Not your fault. Yes, I could use some help. I was looking for a few things."
-    mc ""
+    mc "No es culpa tuya. Y sí, me vendría bien un poco de ayuda. Estaba buscando unas cosillas."
 
 # game/story.rpy:2515
 translate spanish story_b7b7f986:
 
     # ko 6wc "Great. Well let's head over to the counter and I'll look them up for you."
-    ko 6wc ""
+    ko 6wc "Genial. Bueno, acerquémonos al mostrador y te las buscaré."
 
 # game/story.rpy:2516
 translate spanish story_c73d7f79:
 
     # ko 1wb "Do you know the titles?"
-    ko 1wb ""
+    ko 1wb "¿Sabes los títulos?"
 
 # game/story.rpy:2518
 translate spanish story_f17b5fad_1:
 
     # mc "Yeah, I do."
-    mc ""
+    mc "Sí, claro."
 
 # game/story.rpy:2519
 translate spanish story_0eb36439:
 
     # ko 1wa "Good!"
-    ko 1wa ""
+    ko 1wa "¡Vale!"
 
 # game/story.rpy:2520
 translate spanish story_d5fef915:
 
     # "Kotonoha slides behind the counter and types a few things on the computer."
-    ""
+    "Kotonoha se desliza tras el mostrador y teclea un par de cosas en el ordenador."
 
 # game/story.rpy:2521
 translate spanish story_67d5391e:
 
     # ko 1wb "Okay, so what's the title of the first book?"
-    ko 1wb ""
+    ko 1wb "Bien, ¿cuál es el título del primero?"
 
 # game/story.rpy:2523
 translate spanish story_a392e5c1:
 
     # mc "It's a mystery/horror novel called {i}Portrait of Markov{/i}."
-    mc ""
+    mc "Es una novela de misterio y terror titulada {i}Portrait of Markov{/i}."
 
 # game/story.rpy:2524
 translate spanish story_c4ad55c6:
 
     # ko 5wb "Who's the author?"
-    ko 5wb ""
+    ko 5wb "¿Quién es el autor?"
 
 # game/story.rpy:2526
 translate spanish story_858a38c4:
 
     # mc "I'm sorry, I don't know. All I know is that there's an eye on the cover."
-    mc ""
+    mc "Lo siento, no lo sé. Solo sé que tiene un ojo en la portada."
 
 # game/story.rpy:2527
 translate spanish story_3a181677:
 
     # ko 5wf "Let's see..."
-    ko 5wf ""
+    ko 5wf "A ver..."
 
 # game/story.rpy:2528
 translate spanish story_20b0f16e:
 
     # "She types a few things in the computer and hits enter."
-    ""
+    "Teclea algo más en el ordenador."
 
 # game/story.rpy:2529
 translate spanish story_33da8a4b:
 
     # ko 3wd "Hmm...we have a few entries. Have a look."
-    ko 3wd ""
+    ko 3wd "Mmm... Me salen unos cuantos resultados. Échales un vistazo."
 
 # game/story.rpy:2531
 translate spanish story_6c0bd246:
 
     # "She turns the screen to me."
-    ""
+    "Gira la pantalla hacia mí."
 
 # game/story.rpy:2532
 translate spanish story_acfb4bb0:
 
     # ko 1wb "Do any of these look familiar?"
-    ko 1wb ""
+    ko 1wb "¿Te suena alguno?"
 
 # game/story.rpy:2535
 translate spanish story_6587ecf9:
 
     # "One immediately stands out."
-    ""
+    "Uno destaca enseguida."
 
 # game/story.rpy:2536
 translate spanish story_adf64fb4:
 
     # "Yeah, that's definitely the one!"
-    ""
+    "Sí, ¡sin duda es ese!"
 
 # game/story.rpy:2540
 translate spanish story_1849d690:
 
     # "I point."
-    ""
+    "Señalo a la pantalla."
 
 # game/story.rpy:2541
 translate spanish story_84988966:
 
     # mc "I think that's the one."
-    mc ""
+    mc "Creo que es ese."
 
 # game/story.rpy:2542
 translate spanish story_9b1ef144:
 
     # ko 2wd "Heh, looks kinda creepy."
-    ko 2wd ""
+    ko 2wd "Mira, tiene pinta de dar un poco de mal rollo."
 
 # game/story.rpy:2544
 translate spanish story_82e33ff4:
 
     # mc "It is a horror book, after all."
-    mc ""
+    mc "Al fin y al cabo, es un libro de terror."
 
 # game/story.rpy:2545
 translate spanish story_60aeb2c0:
 
     # ko 3wh "Oh yeah, of course. I'll be right back."
-    ko 3wh ""
+    ko 3wh "Ah, sí, por supuesto. Vuelvo enseguida."
 
 # game/story.rpy:2548
 translate spanish story_2fd34a54:
