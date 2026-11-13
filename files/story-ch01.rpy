@@ -26,7 +26,7 @@ translate spanish story_e2c2950c:
 translate spanish story_aa924373:
 
     # "Aaah...it's a nice night. Not too cold, but just warm enough to enjoy a nice cold one before bed."
-    "Ahhh... Qué buena noche. No hace demasiada rasca, la temperatura es ideal para disfrutar de un refresco fresquito antes de dormir."
+    "Ahhh... Qué buena noche. No hace demasiado frío, la temperatura es ideal para disfrutar de un refresco fresquito antes de dormir."
 
 # game/story.rpy:24
 translate spanish story_aa79aa7e:
@@ -110,7 +110,7 @@ translate spanish story_2041a696:
 translate spanish story_bacf9bb5:
 
     # "It's a selfie of him and Mom at the beach with the tagline “{i}Miss you honey!{/i}”"
-    "Es un selfi de él y mamá en la playa con el texto: '{i}¡Te echamos de menos, cariño!{/i}'."
+    "Es una selfie de él y mamá en la playa con el texto: '{i}¡Te echamos de menos, cariño!{/i}'."
 
 # game/story.rpy:43
 translate spanish story_6940aa0e:
@@ -134,7 +134,7 @@ translate spanish story_f7a71778:
 translate spanish story_05229b8c:
 
     # "I think I'm gonna...nod off..."
-    "Creo que me voy a... quedar frito..."
+    "Creo que me voy a... quedar... dormido..."
 
 # game/story.rpy:57
 translate spanish story_0494db3c:
@@ -164,13 +164,13 @@ translate spanish story_0a4275ba:
 translate spanish story_e953a0aa:
 
     # cm "Ugh...yesterday's test was so...not cool."
-    cm "Uf... El examen de ayer no me salió... nada bien."
+    cm "Arg... El examen de ayer no me salió... nada bien."
 
 # game/story.rpy:84
 translate spanish story_663ed464:
 
     # cm2 "I head downstairs to grab some breakfast."
-    cm2 "Bajo a la cocina a preparar algo para desayunar."
+    cm2 "Bajo a la cocina a buscar algo para desayunar."
 
 # game/story.rpy:85
 translate spanish story_de4cfbb2:
@@ -194,7 +194,7 @@ translate spanish story_86f409e6:
 translate spanish story_84162557:
 
     # cm2 "Oh geez..."
-    cm2 "Madre mía..."
+    cm2 "Vaya..."
 
 # game/story.rpy:89
 translate spanish story_2b27d6e4:
@@ -236,7 +236,7 @@ translate spanish story_b37120f2:
 translate spanish story_c2a74290:
 
     # cm2 "I get so into it, I lose track of time."
-    cm2 "Me engancho tanto que pierdo la noción del tiempo."
+    cm2 "Me engancha tanto que pierdo la noción del tiempo."
 
 # game/story.rpy:100
 translate spanish story_7f2f9766:
@@ -248,7 +248,7 @@ translate spanish story_7f2f9766:
 translate spanish story_9e7740c0:
 
     # cm2 "I can't help but hear the voice of a girl singing to herself from outside."
-    cm2 "No puedo evitar oír la voz de una chica canturreando afuera."
+    cm2 "No puedo evitar oír la voz de una chica canturreando fuera."
 
 # game/story.rpy:103
 translate spanish story_fcb98469:
@@ -278,13 +278,13 @@ translate spanish story_285b8212:
 translate spanish story_409f1bc4:
 
     # cm2 "We used to walk to school together, but starting around high school she would oversleep more and more frequently, and I would get tired of waiting up."
-    cm2 "Solíamos ir juntos al instituto, pero al empezar bachillerato empezó a quedarse dormida cada vez más a menudo, y yo me harté de esperarla."
+    cm2 "Solíamos ir juntos al cole, pero al empezar el instituto empezó a quedarse dormida cada vez más a menudo, y yo me harté de esperarla."
 
 # game/story.rpy:114
 translate spanish story_dd1c7dd5:
 
     # cm2 "I wonder where she's off too."
-    cm2 "Me pregunto adónde irá."
+    cm2 "Me pregunto adónde se habrá ido."
 
 # game/story.rpy:116
 translate spanish story_c7efda7b:
@@ -362,7 +362,7 @@ translate spanish story_76be901e:
 translate spanish story_a70f2523:
 
     # cm2 "In fact, I'm 99%% sure she only did it because she thought it would be fun to help start a new club."
-    cm2 "De hecho, estoy seguro al 99%% de que solo lo hizo porque pensó que sería divertido ayudar a crear un club nuevo."
+    cm2 "De hecho, estoy un 99%% seguro de que solo lo hizo porque pensó que sería divertido ayudar a crear un club nuevo."
 
 # game/story.rpy:139
 translate spanish story_f8ac9a72:
@@ -482,13 +482,13 @@ translate spanish story_3883e0b7:
 translate spanish story_836c8a07:
 
     # "Did I pass out on the couch? Or did I make it to bed?"
-    "¿Me quedé frito en el sofá? ¿O conseguí llegar a la cama?"
+    "¿Me dormí en el sofá? ¿O conseguí llegar a la cama?"
 
 # game/story.rpy:215
 translate spanish story_80ea2f70:
 
     # "Argh, that alarm! Time to shut you up!"
-    "¡Argh, la jodida alarma! ¡Es hora de hacerte callar!"
+    "¡Arg, la jodida alarma! ¡Es hora de hacerte callar!"
 
 # game/story.rpy:216
 translate spanish story_21baa91f:
@@ -548,7 +548,7 @@ translate spanish story_3bddf592:
 translate spanish story_ee879f7b:
 
     # "My right hand finally lands on something that feels like a phone on what I assume is a nightstand on my right, only it isn't my smartphone but a flip phone."
-    "Finalmente, mi mano derecha se posa sobre algo que parece un móvil en lo que supongo que es una mesita de noche a mi derecha. El caso es que no es mi móvil, sino un mierda de estas de tapa."
+    "Finalmente, mi mano derecha se posa sobre algo que parece un móvil en lo que supongo que es una mesita de noche a mi derecha. El caso es que no es mi móvil, sino un móvil de esos de tapa."
 
 # game/story.rpy:226
 translate spanish story_814fadcb:
@@ -590,7 +590,7 @@ translate spanish story_92f451bf:
 translate spanish story_b9029dad:
 
     # "Why does my body feel lighter?"
-    "¿Por qué noto el cuerpo más ligero?"
+    "¿Por qué siento el cuerpo más ligero?"
 
 # game/story.rpy:239
 translate spanish story_a64fa5c1:
@@ -710,7 +710,7 @@ translate spanish story_ba38a584:
 translate spanish story_1a1f2ac9:
 
     # "I almost shout in shock, but I remember at just the last minute to keep my voice down."
-    "Casi pego un grito del susto, pero en el último momento recuerdo que debo hablar bajo."
+    "Casi pego un grito del susto, pero en el último momento recuerdo que debo bajar la voz."
 
 # game/story.rpy:282
 translate spanish story_5217903a:
@@ -788,7 +788,7 @@ translate spanish story_0ca73795:
 translate spanish story_13206f95:
 
     # "I try switching back to Japanese."
-    "Intento volver a cambiar al japonés."
+    "Intento cambiar de nuevo al japonés."
 
 # game/story.rpy:299
 translate spanish story_b29b47ab:
@@ -806,7 +806,7 @@ translate spanish story_4cdad7d3:
 translate spanish story_aded5c42:
 
     # "But now I'm freaking out. When did I learn a completely new language?"
-    "Pero ahora mismo estoy flipando. ¿En qué momento he aprendido un idioma completamente nuevo?"
+    "Pero ahora mismo estoy acojonado. ¿En qué momento he aprendido un idioma completamente nuevo?"
 
 # game/story.rpy:302
 translate spanish story_42c83178:
@@ -1112,7 +1112,7 @@ translate spanish story_ee749783:
 translate spanish story_af96a1e4:
 
     # u "Meiji, I'll get you a glass of water. You just go to bed."
-    u "Meiji, iré a buscarte ese vaso de agua. Tú vuelve a la cama."
+    u "Meiji, iré a buscarte un vaso de agua. Tú vuelve a la cama."
 
 # game/story.rpy:424
 translate spanish story_71f5aa09:
@@ -1130,7 +1130,7 @@ translate spanish story_54c71ebd:
 translate spanish story_e390de94:
 
     # "I head back in and sit on the edge of the bed. Meiji's mom comes in a bit later with a glass of cold water, which I drink gratefully. She sits next to me."
-    "Vuelvo al cuarto y me siento en el borde de la cama. La madre de Meiji entra poco después con un vaso de agua fría, el cual bebo agradecido."
+    "Vuelvo al cuarto y me siento en el borde de la cama. La madre de Meiji entra poco después con un vaso de agua fría que bebo agradecido. Se sienta a mi lado."
 
 # game/story.rpy:436
 translate spanish story_9683f264:
@@ -1148,7 +1148,7 @@ translate spanish story_a2cbde33:
 translate spanish story_8579f06b:
 
     # "It wasn't so long ago for me, after all. But for some reason it's hard to remember."
-    "Al fin y al cabo, no hace tanto tiempo de aquello. Pero, por algún motivo, me cuesta recordarlo."
+    "Al fin y al cabo, yo no dejé de ser adolescente hace tanto. Pero, por algún motivo, me cuesta recordarlo."
 
 # game/story.rpy:440
 translate spanish story_e6015101:
@@ -1160,7 +1160,7 @@ translate spanish story_e6015101:
 translate spanish story_c2f3f85b:
 
     # "Ugh, I can't act for shit!"
-    "Buf, ¡qué asco doy actuando!"
+    "Arg, ¡qué asco doy actuando!"
 
 # game/story.rpy:442
 translate spanish story_5215c83e:
@@ -1202,7 +1202,7 @@ translate spanish story_055f7242:
 translate spanish story_9ad43776:
 
     # "Ugh, try and act like a teenager, me! How would one react?"
-    "Jo, ¡concéntrate en actuar como un adolescente! ¿Cómo reaccionaría uno?"
+    "Arg, ¡concéntrate en actuar como un adolescente! ¿Cómo reaccionaría uno?"
 
 # game/story.rpy:453
 translate spanish story_6981781d:
@@ -1226,7 +1226,7 @@ translate spanish story_9170104b:
 translate spanish story_54193b93:
 
     # mom 5pb "You should sleep dear. It is the weekend still, after all."
-    mom 5pb "Deberías dormir, cielo. Después de todo, aún es fin de semana."
+    mom 5pb "Deberías irte a dormir, cielo. Que aún es fin de semana."
 
 # game/story.rpy:458
 translate spanish story_05a2913a:
@@ -1244,7 +1244,7 @@ translate spanish story_cca968a7:
 translate spanish story_c934b35b:
 
     # mom 1pa "Now go to sleep, sweetie. See you in the morning."
-    mom 1pa "Ahora a dormir, cariño. Nos vemos por la mañana."
+    mom 1pa "Ahora a dormir, cariño. Hasta mañana."
 
 # game/story.rpy:461
 translate spanish story_f2c15ce7:
@@ -1268,7 +1268,7 @@ translate spanish story_6a68466b:
 translate spanish story_38e042f3:
 
     # "I close my eyes and let my mind wander."
-    "Cierro los ojos y dejo vagar la mente."
+    "Cierro los ojos y dejo vagar mi mente."
 
 # game/story.rpy:473
 translate spanish story_865ac25f:
@@ -1280,13 +1280,13 @@ translate spanish story_865ac25f:
 translate spanish story_f3d5b1d4:
 
     # mc "{b}I'm freaking out...This has {i}GOT{/i} to be a very elaborate dream.{/b}"
-    mc "{i}Estoy flipando... Esto tiene que ser un sueño muy elaborado.{/i}"
+    mc "{b}Estoy acojonado... Esto TIENE que ser un sueño muy elaborado.{/b}"
 
 # game/story.rpy:475
 translate spanish story_bb8b41f9:
 
     # mc "{b}I mean first, to wake up in the MC's room-{/b}"
-    mc "{i}O sea, para empezar, despertarme en la habitación del prota...{/i}"
+    mc "{b}O sea, para empezar, despertarme en la habitación del prota...{/b}"
 
 # game/story.rpy:476
 translate spanish story_d0a53a59:
@@ -1316,7 +1316,7 @@ translate spanish story_c653e4ea:
 translate spanish story_82d68200:
 
     # "The voice sounds terrified. It also sounds like my new voice. It's coming from my head, like some kind of audible thought. Realization sets in."
-    "La voz suena aterrorizada, y también suena como mi nueva voz. Proviene de mi propia cabeza, como si fuera un pensamiento audible. De repente, caigo en la cuenta."
+    "La voz suena aterrorizada. Además, suena como mi nueva voz. Proviene de mi propia cabeza, como si fuera un pensamiento audible. De repente, caigo en la cuenta."
 
 # game/story.rpy:486
 translate spanish story_71656994:
@@ -1340,7 +1340,7 @@ translate spanish story_cdcb8e9c:
 translate spanish story_b89bc6c9:
 
     # mc "Listen, I'm sure you're freaking out a lot, but it's nothing compared to how I'm feeling."
-    mc "Escucha, seguro que estás flipando mucho, pero no es nada comparado con cómo me siento yo."
+    mc "Escucha, seguro que estás en pánico, pero no es nada comparado con cómo me siento yo."
 
 # game/story.rpy:490
 translate spanish story_270bfbed:
@@ -1358,7 +1358,7 @@ translate spanish story_3b6aac38:
 translate spanish story_1a528f33:
 
     # cm "{i}Chizu Meiji. Now seriously, what the hell is going on?! You have control of my body, how are you any more terrified than I am!?{/i}"
-    cm "{i}Yo soy Chizu Meiji. Ahora en serio, ¡¿qué narices está pasando?! Tienes el control de mi cuerpo, ¡¿cómo vas a estar más aterrorizado que yo?!{/i}"
+    cm "{i}Yo soy Chizu Meiji. Ahora en serio, ¡¿qué narices está pasando?! Tienes el control de mi cuerpo, ¡¿cómo puedes estar más aterrorizado que yo?!{/i}"
 
 # game/story.rpy:493
 translate spanish story_17fe3418:
@@ -1460,7 +1460,7 @@ translate spanish story_9d3ce645:
 translate spanish story_0b4c840f:
 
     # "Slowly, my heartbeat returns to a somewhat more normal rate. Not that I know what the normal heartrate for his body is."
-    "Poco a poco, mis latidos vuelven a un ritmo algo más normal. Aunque tampoco es que sepa cuál es el ritmo normal de su cuerpo."
+    "Poco a poco, el pulso vuelve a un ritmo algo más normal. Aunque tampoco es que sepa cuál es el ritmo normal de su cuerpo."
 
 # game/story.rpy:515
 translate spanish story_bfc298a5:
@@ -1580,7 +1580,7 @@ translate spanish story_a850d16b:
 translate spanish story_20fc7e60:
 
     # "Okay, I admit that was not what I was expecting, but I can work with that."
-    "Vale, reconozco que eso no era lo que me esperaba, pero puedo arreglármelas con eso."
+    "Vale, reconozco que eso no era lo que me esperaba, pero puedo arreglármelas."
 
 # game/story.rpy:535
 translate spanish story_d38f7f40:
@@ -1592,7 +1592,7 @@ translate spanish story_d38f7f40:
 translate spanish story_b80a08b0:
 
     # mc "Hey, you're a third year in high school, right?"
-    mc "Oye, estás en tercero de instituto, ¿verdad?"
+    mc "Oye, estás en segundo de bachillerato, ¿verdad?"
 
 # game/story.rpy:537
 translate spanish story_652a0eea:
@@ -1634,7 +1634,7 @@ translate spanish story_8ed28640:
 translate spanish story_4a0c0fd2:
 
     # mc "A game of life and death involving you. Well, us now, I guess."
-    mc "Un juego de vida o muerte en el que estás involucrado. Bueno, en el que estamos involucrados nosotros, supongo."
+    mc "Un juego de vida o muerte que te involucra. Bueno, ahora a los dos, supongo."
 
 # game/story.rpy:544
 translate spanish story_95c3c840_2:
@@ -1712,13 +1712,13 @@ translate spanish story_6cb3ce8f:
 translate spanish story_aadca25d:
 
     # "Here goes nothing..."
-    "Ahora o nunca..."
+    "A ver qué pasa..."
 
 # game/story.rpy:558
 translate spanish story_7002245a:
 
     # mc "Alright, well the world you live in, this world, is not what you think. You know what a visual novel is, right?"
-    mc "Muy bien, el mundo en el que vives, este mundo, no es lo que crees. Sabes lo que es una novela visual, ¿verdad?"
+    mc "Bueno, el mundo en el que vives, este mundo, no es lo que crees. Sabes lo que es una novela visual, ¿verdad?"
 
 # game/story.rpy:559
 translate spanish story_bd2cbdb9:
@@ -1754,7 +1754,7 @@ translate spanish story_182d00d6:
 translate spanish story_91eb36ba:
 
     # mc "I'm not, I promise."
-    mc "No lo hago, te lo prometo."
+    mc "Que no, te lo prometo."
 
 # game/story.rpy:565
 translate spanish story_5749bcf9:
@@ -1766,7 +1766,7 @@ translate spanish story_5749bcf9:
 translate spanish story_c794ba8a:
 
     # mc "Exactly! The people who created the game wanted to create a person who didn't stand out much even as a background character in an anime."
-    mc "¡Exacto! Los creadores del juego querían diseñar a una persona que no destacase mucho, ni siquiera como personaje de fondo en un anime."
+    mc "¡Exacto! Los creadores del juego querían crear a un personaje que no destacase mucho, ni siquiera como personaje de fondo en un anime."
 
 # game/story.rpy:567
 translate spanish story_3d73949e:
@@ -1784,13 +1784,13 @@ translate spanish story_06e7e309:
 translate spanish story_46530b39:
 
     # mc "I didn't mean anything by it! It's just that the player is meant to identify with you. Normally, people who play visual novels and dating sims are nerds like you and me, right?"
-    mc "¡No lo decía a malas! Es solo que se supone que el jugador debe sentirse identificado contigo. Normalmente, la gente que juega a novelas visuales y simuladores de citas son unos frikis como tú y como yo."
+    mc "¡No lo decía a malas! Es solo que se supone que el jugador debe sentirse identificado contigo. Normalmente, la gente que juega a novelas visuales y simuladores de citas son unos frikis como tú y como yo, ¿verdad?"
 
 # game/story.rpy:570
 translate spanish story_da6c8893:
 
     # mc "I get how this sounds, believe me, but if you want proof, I do know some things about you that I learned from playing the game before."
-    mc "Ya, sé cómo suena, créeme, pero si quieres pruebas, sé algunas cosas sobre ti que aprendí al haber jugado al juego."
+    mc "Ya sé cómo suena, créeme, pero si quieres pruebas, conozco cosas sobre ti que aprendí jugando al juego."
 
 # game/story.rpy:571
 translate spanish story_74269231:
@@ -1886,7 +1886,7 @@ translate spanish story_51383c01:
 translate spanish story_87ba9f60:
 
     # cm "{i}I...I don't know. I always thought she could do so much better than me. Like you said earlier, I'm no one special.{/i}"
-    cm "{i}Yo... no lo sé. Siempre he pensado que ella podía aspirar a mucho más que yo. Como dijiste antes, no soy nadie especial.{/i}"
+    cm "{i}Yo... no lo sé. Siempre he pensado que podía salir con alguien mejor que yo. Como dijiste antes, no soy nadie especial.{/i}"
 
 # game/story.rpy:587
 translate spanish story_e207540d:
@@ -1904,7 +1904,7 @@ translate spanish story_9bde94e2:
 translate spanish story_078566e7:
 
     # "Not what I was expecting. I assumed that the protagonist stopped hanging out with Sayori because of him being so generic, but the truth is a lot more realistic."
-    "No me esperaba esto. Creía que el protagonista había dejado de quedar con Sayori por ser demasiado genérico, pero la verdad es mucho más realista."
+    "No me esperaba esto. Creía que el protagonista había dejado de quedar con Sayori por ser demasiado genérico, pero la verdad es mucho más real."
 
 # game/story.rpy:590
 translate spanish story_ca959185:
@@ -1928,13 +1928,13 @@ translate spanish story_60d0818b:
 translate spanish story_4a0965bd:
 
     # mc "Do you really think that? If she really thought that, would she have even played with you when you two were kids?"
-    mc "¿De verdad piensas eso? Si pensase así, ¿crees que habría jugado contigo cuando erais pequeños?"
+    mc "¿De verdad piensas eso? Si ella pensara así, ¿habría jugado siquiera contigo cuando erais pequeños?"
 
 # game/story.rpy:594
 translate spanish story_5709f43c:
 
     # mc "Didn't you help whenever she hurt herself? What about when she nearly burned her house down when she tried cooking?"
-    mc "¿Acaso no la ayudabas siempre que se hacía daño? ¿O cuando casi incendia su casa al intentar cocinar?"
+    mc "¿Acaso no la ayudabas siempre que se hacía daño? ¿O cuando casi incendió su casa al intentar cocinar?"
 
 # game/story.rpy:595
 translate spanish story_c643c6e6:
@@ -1964,7 +1964,7 @@ translate spanish story_a47b895d:
 translate spanish story_e3403ad1:
 
     # mc "Wow, I didn't realize Sayori had long hair at one time. She looks so cute!"
-    mc "Guau, no sabía que Sayori hubiese tenido el pelo largo en el pasado. ¡Sale supercuqui!"
+    mc "Guau, no sabía que Sayori hubiese tenido el pelo largo en alguna época. ¡Sale supercuqui!"
 
 # game/story.rpy:600
 translate spanish story_8622b59d:
@@ -1994,7 +1994,7 @@ translate spanish story_2dadd204:
 translate spanish story_d8f20007:
 
     # cm "{i}...Yes...{/i}"
-    cm "{i}Venga.{/i}"
+    cm "{i}Sí...{/i}"
 
 # game/story.rpy:605
 translate spanish story_858f087b:
@@ -2024,7 +2024,7 @@ translate spanish story_6cfc2e74:
 translate spanish story_cacfe05c:
 
     # "Ugh, I suck when it comes to people sometimes. I try to think of something to say to reassure him again."
-    "Uf, a veces soy un desastre para tratar con la gente. Intento pensar en algo que decirle para tranquilizarlo un poco."
+    "Arg, a veces soy un desastre para tratar con la gente. Intento pensar en algo que decirle para tranquilizarlo un poco."
 
 # game/story.rpy:610
 translate spanish story_98eec459:
@@ -2036,7 +2036,7 @@ translate spanish story_98eec459:
 translate spanish story_0590989d:
 
     # "I need his help, after all. I know nothing about this world other than the names of the girls and a few background images."
-    "Aun así, necesito su ayuda. No sé nada de este mundo aparte de los nombres de las chicas y un par de imágenes de fondo."
+    "Al fin y al cabo, necesito su ayuda. No sé nada de este mundo aparte de los nombres de las chicas y un par de imágenes de fondo."
 
 # game/story.rpy:612
 translate spanish story_22b31946:
@@ -2084,7 +2084,7 @@ translate spanish story_b4b5840f:
 translate spanish story_ce086c24:
 
     # "Damn it..."
-    "Joder..."
+    "Mierda..."
 
 # game/story.rpy:620
 translate spanish story_b17b8914:
@@ -2102,7 +2102,7 @@ translate spanish story_e2073d23:
 translate spanish story_279afa36:
 
     # "Aaand he's having a nervous breakdown. Way to go, [fname]! You really screwed the pooch on this one!"
-    "Yyy está sufriendo una crisis nerviosa. ¡Muy bien, [fname]! ¡Esta vez sí que la has cagado a base de bien!"
+    "Y está sufriendo una crisis nerviosa. ¡Muy bien, [fname]! ¡Esta vez sí que la has cagado a base de bien!"
 
 # game/story.rpy:623
 translate spanish story_fa8c20fd:
@@ -2138,7 +2138,7 @@ translate spanish story_6f5908b2:
 translate spanish story_5971623e:
 
     # mc "I don't believe in no-win scenarios. Also, I'm a stubborn idiot."
-    mc "No creo en las batallas perdidas. Te digo que soy un idiota muy testarudo."
+    mc "No creo en las batallas perdidas. Además, soy un idiota muy testarudo."
 
 # game/story.rpy:629
 translate spanish story_b000130d:
@@ -2282,13 +2282,13 @@ translate spanish story_d470a68f:
 translate spanish story_92f32744:
 
     # "If I don't join the club, will Monika even get her epiphany?"
-    "Si no me uno, ¿llegará Monika a tener su epifanía?"
+    "Si no me uno, ¿tendrá Monika siquiera su epifanía?"
 
 # game/story.rpy:658
 translate spanish story_3338c0a3:
 
     # "Or will something else cause Sayori to hang herself again?"
-    "¿O habrá otra cosa que provoque que Sayori vuelva a ahorcarse?"
+    "¿O habrá otra cosa que haga que Sayori vuelva a ahorcarse?"
 
 # game/story.rpy:659
 translate spanish story_1676541b:
@@ -2354,7 +2354,7 @@ translate spanish story_8a006995:
 translate spanish story_4fc5a24f:
 
     # "I also find the chargers for my laptop and phone in the other pouch."
-    "También encuentro los cargadores en el otro bolsillo."
+    "También encuentro los cargadores del portátil y el móvil en el otro bolsillo."
 
 # game/story.rpy:674
 translate spanish story_7d4b5633:
@@ -2444,7 +2444,7 @@ translate spanish story_5003b811:
 translate spanish story_dfa07c95:
 
     # "I grab my phone, put a note in a notepad app then lay back down."
-    "Cojo el móvil, apunto una nota en la aplicación de notas y me vuelvo a tumbar."
+    "Cojo el móvil, hago una nota en la app de notas y me vuelvo a tumbar."
 
 # game/story.rpy:693
 translate spanish story_36c6ae00:
@@ -2492,7 +2492,7 @@ translate spanish story_9ef2c589:
 translate spanish story_70c46511:
 
     # mc "Walked right into that Imperial ambush while I was trying to cross the border."
-    mc "Fui a caer en la emboscada de los imperiales mientras intentaba cruzar la frontera."
+    mc "Caí de lleno en la emboscada de los imperiales mientras intentaba cruzar la frontera."
 
 # game/story.rpy:712
 translate spanish story_8d579d90:
@@ -2570,7 +2570,7 @@ translate spanish story_85b509a0:
 translate spanish story_a0b7f8f9:
 
     # mc "I may be the one in control, but I want to help the two of you get closer again."
-    mc "Puede que yo tenga el control, pero quiero ayudaros a que volváis a uniros."
+    mc "Puede que yo tenga el control, pero quiero ayudaros a que volváis a acercaros."
 
 # game/story.rpy:725
 translate spanish story_ccc58dbb:
@@ -2618,7 +2618,7 @@ translate spanish story_421204a3:
 translate spanish story_b8ed5c28:
 
     # cm "{i}That's insane! She'll never believe it! She'll think I'm just playing a trick on her like-{/i}"
-    cm "{i}¡Es una locura! ¡Nunca se lo creerá! Pensará que le estoy gastando una broma como...{/i}"
+    cm "{i}¡Es una locura! ¡Nunca se lo creerá! Pensará que le estoy haciendo una broma como...{/i}"
 
 # game/story.rpy:733
 translate spanish story_330ad9e2:
@@ -2648,7 +2648,7 @@ translate spanish story_4a78dcad:
 translate spanish story_2d5b531b:
 
     # mc "I tell her I have memories of a life I've never really lived and that I woke up in your body."
-    mc "Le diré que tengo recuerdos de una vida que nunca he vivido realmente y que me he despertado en tu cuerpo."
+    mc "Le diré que tengo recuerdos de una vida que nunca he vivido realmente y que he despertado en tu cuerpo."
 
 # game/story.rpy:738
 translate spanish story_b9f3ac18:
@@ -2672,7 +2672,7 @@ translate spanish story_d0593536:
 translate spanish story_f700b367:
 
     # "What if Sayori doesn't invite Meiji to the club after I tell her what was going on today?"
-    "¿Y si Sayori no invita a Meiji al club después de que le cuente lo que ha pasado hoy?"
+    "¿Y si Sayori no invita a Meiji al club después de que le cuente lo que está pasando hoy?"
 
 # game/story.rpy:742
 translate spanish story_286f9418:
@@ -2702,7 +2702,7 @@ translate spanish story_398f1e7e:
 translate spanish story_b67ffce3:
 
     # cm "{i}That…makes a bit more sense. So, are you going to act like me today?{/i}"
-    cm "{i}Ya, tiene sentido. Entonces, ¿vas a actuar como si fueras yo hoy?{/i}"
+    cm "{i}Ya, eso tiene un poco más de sentido. Entonces, ¿vas a actuar como si fueras yo hoy?{/i}"
 
 # game/story.rpy:747
 translate spanish story_d939b9c2:
@@ -2804,7 +2804,7 @@ translate spanish story_cb76b975:
 translate spanish story_5712ebfd:
 
     # cm "{i}I've been relegated to internal GPS. And it's Kōzai.{/i}"
-    cm "{i}Me han relegado a la función de GPS interno. Kōzai es la ciudad.{/i}"
+    cm "{i}Me han relegado a la función de GPS interno. Y se llama Kōzai.{/i}"
 
 # game/story.rpy:764
 translate spanish story_22bf2f10:
@@ -2936,7 +2936,7 @@ translate spanish story_fc28aa20:
 translate spanish story_5ccc31ae:
 
     # mc "{i}{u}Sayori! Hey, it's Meiji. Wanna go and have some fun today?{/i}{/u}"
-    mc "{i}{u}¡Sayori! Hola, soy Meiji. ¿Te apetece que salgamos a divertirnos hoy?{/i}{/u}"
+    mc "{i}{u}sayori! hola, soy meiji. te apetece salir a pasarlo bien hoy?{/i}{/u}"
 
 # game/story.rpy:786
 translate spanish story_606c1c10:
@@ -2960,7 +2960,7 @@ translate spanish story_d5bec6b0:
 translate spanish story_f73d0201:
 
     # s "{i}{u}Yes! What are we gonna do?{/i}{/u}"
-    s "{i}{u}¡Venga! ¿Qué vamos a hacer?{/i}{/u}"
+    s "{i}{u}vale! que vamos a hacer?{/i}{/u}"
 
 # game/story.rpy:790
 translate spanish story_f406764b:
@@ -2996,7 +2996,7 @@ translate spanish story_21378476:
 translate spanish story_8aea9608:
 
     # mc "Oh, and good restaurants too."
-    mc "Ah, y tal vez restaurantes."
+    mc "Ah, y buenos restaurantes también."
 
 # game/story.rpy:796
 translate spanish story_b04ddae2:
@@ -3020,7 +3020,7 @@ translate spanish story_c2a97043:
 translate spanish story_ef3dab74:
 
     # mc "{i}{u}We can go to the park, the arcade, maybe see a movie and get something nice to eat after if we have time{/i}{/u}."
-    mc "{i}{u}Podemos ir al parque, a los recreativos, quizá ver una peli y comer algo rico luego si nos da tiempo{/i}{/u}."
+    mc "{i}{u}podemos ir al parque, a los recreativos, quiza ver una peli y comer algo rico luego si nos da tiempo{/i}{/u}"
 
 # game/story.rpy:800
 translate spanish story_de24caec:
@@ -3038,7 +3038,7 @@ translate spanish story_d15c0f0d:
 translate spanish story_51509550:
 
     # cm "{i}I didn't agree to this! Stop it right now!{/i}"
-    cm "{i}¡Yo no he accedido a esto! ¡Para ahora mismo!{/i}"
+    cm "{i}¡Yo no he accedido a esto! ¡Para ya!{/i}"
 
 # game/story.rpy:803
 translate spanish story_2dd6ab5b:
@@ -3080,7 +3080,7 @@ translate spanish story_3bc2e34a:
 translate spanish story_44e97c71:
 
     # s "{i}{u}Ooooh! Those all sound fun! What time?{/i}{/u}"
-    s "{i}{u}¡Oooh! ¡Suena muy bien! ¿A qué hora?{/i}{/u}"
+    s "{i}{u}aaah! todo suena muy bien! a que hora?{/i}{/u}"
 
 # game/story.rpy:810
 translate spanish story_07da8f9c:
@@ -3092,13 +3092,13 @@ translate spanish story_07da8f9c:
 translate spanish story_e25bc04c:
 
     # cm "{i}Damn it...alright, you win. Just…don't do anything weird to her, okay?{/i}"
-    cm "{i}Joder... Vale, tú ganas. Pero... no le hagas nada raro, ¿vale?{/i}"
+    cm "{i}Mierda... Vale, tú ganas. Pero... no le hagas nada raro, ¿vale?{/i}"
 
 # game/story.rpy:812
 translate spanish story_88700a4e:
 
     # mc "Thanks, and don't worry, I won't. She's your crush, after all."
-    mc "Gracias, y no te preocupes, no lo haré. Sé que es la chica que te gusta."
+    mc "Gracias, y no te preocupes, no lo haré. Al fin y al cabo, es la chica que te gusta."
 
 # game/story.rpy:813
 translate spanish story_20f8d9a7:
@@ -3110,13 +3110,13 @@ translate spanish story_20f8d9a7:
 translate spanish story_305d2bda:
 
     # mc "{i}{u}I'll stop by your house at 10:30.{/i}{/u}"
-    mc "{i}{u}Me pasaré por tu casa a las 10:30.{/i}{/u}"
+    mc "{i}{u}me pasare por tu casa a las 10:30{/i}{/u}"
 
 # game/story.rpy:815
 translate spanish story_4fa0b8d1:
 
     # s "{i}{u}See you then!{/i}{/u}"
-    s "{i}{u}¡Vale, te veo luego!{/i}{/u}"
+    s "{i}{u}vale, te veo luego!{/i}{/u}"
 
 # game/story.rpy:816
 translate spanish story_d93620bf:
@@ -3134,19 +3134,19 @@ translate spanish story_2ea8f99e:
 translate spanish story_ca4b79fe:
 
     # "Yeah, I hope I do too..."
-    "Sí, yo también lo espero..."
+    "Espero que así sea..."
 
 # game/story.rpy:825
 translate spanish story_318e3a9f:
 
     # "I head downstairs and smell something cooking."
-    "Bajo al piso de abajo y huelo que algo se está cocinando."
+    "Bajo y huelo que algo se está cocinando."
 
 # game/story.rpy:827
 translate spanish story_39a735e2:
 
     # "I see Meiji's mom at the stove cooking what smells like scrambled eggs."
-    "Veo a la madre de Meiji en los fogones, cocinando lo que huelen a huevos revueltos."
+    "Veo a la madre de Meiji en los fogones, cocinando lo que huele a huevos revueltos."
 
 # game/story.rpy:828
 translate spanish story_701e662f:
@@ -3164,7 +3164,7 @@ translate spanish story_005bd8c2:
 translate spanish story_78215334:
 
     # mc "Yeah, I did."
-    mc "Sí."
+    mc "Sí, eso hice."
 
 # game/story.rpy:832
 translate spanish story_5a830c20:
@@ -3212,7 +3212,7 @@ translate spanish story_f5d92ab0:
 translate spanish story_ab96340d:
 
     # "Breakfast for me is eggs and toast, same for her albeit with a nice hot cup of coffee."
-    "Para desayunar tomo huevos y tostadas. Ella toma lo mismo, aunque acompañado de una buena taza de café."
+    "Para desayunar tomo huevos y tostadas. Ella toma lo mismo, aunque con una buena taza de café calentito."
 
 # game/story.rpy:850
 translate spanish story_fbecf12d:
@@ -3242,7 +3242,7 @@ translate spanish story_6b2ce156:
 translate spanish story_ac26f5c8:
 
     # mc "Yeah true. I kinda miss those times."
-    mc "Sí, echo un poco de menos esos tiempos."
+    mc "Sí, es verdad. Echo un poco de menos esos tiempos."
 
 # game/story.rpy:857
 translate spanish story_afa8b1ea:
@@ -3266,31 +3266,31 @@ translate spanish story_678c967b:
 translate spanish story_0380f15c:
 
     # mc "{b}What café is she talking about?{/b}"
-    mc "{i}¿De qué cafetería habla?{/i}"
+    mc "{b}¿De qué cafetería habla?{/b}"
 
 # game/story.rpy:862
 translate spanish story_d1ffc36b:
 
     # cm "{i}Hmm, when we were kids our parents would sometimes take us to this one café and get us hot chocolate and cinnamon buns.{/i}"
-    cm "{i}Mmm, cuando éramos niños, nuestros padres a veces nos llevaban a una cafetería y nos compraban chocolate caliente y rollitos de canela.{/i}"
+    cm "{i}Mmm, cuando éramos niños, nuestros padres a veces nos llevaban a esta cafetería y nos compraban chocolate caliente y rollitos de canela.{/i}"
 
 # game/story.rpy:863
 translate spanish story_5bbc3b82:
 
     # mc "{b}Oooh, sounds like a great idea!{/b}"
-    mc "{i}Hala, ¡parece una idea genial!{/i}"
+    mc "{b}Anda, ¡suena a una idea genial!{/b}"
 
 # game/story.rpy:864
 translate spanish story_b742a82e:
 
     # mc "{b}And I just noticed, but we're talking to each other without me talking out loud.{/b}"
-    mc "{i}Por cierto, me acabo de dar cuenta de que estamos hablando sin que yo diga nada en voz alta.{/i}"
+    mc "{b}Por cierto, me acabo de dar cuenta de que estamos hablando sin que yo diga nada en voz alta.{/b}"
 
 # game/story.rpy:865
 translate spanish story_1d064482:
 
     # mc "{b}Good to know we can do that.{/b}"
-    mc "{i}Es bueno saber que podemos hacer eso.{/i}"
+    mc "{b}Es bueno saber que podemos hacer eso.{/b}"
 
 # game/story.rpy:866
 translate spanish story_45f0ee4c:
@@ -3302,7 +3302,7 @@ translate spanish story_45f0ee4c:
 translate spanish story_608aaa59:
 
     # mc "{b}Heh, true.{/b}"
-    mc "{i}Ya, es verdad.{/i}"
+    mc "{b}Ya, es verdad.{/b}"
 
 # game/story.rpy:868
 translate spanish story_cf11ab2f:
@@ -3410,7 +3410,7 @@ translate spanish story_efb51d33:
 translate spanish story_dfcf4b9a:
 
     # mc "{b}I didn't realize your mom was that kind of mom.{/b}"
-    mc "{i}No me había dado cuenta de que tu madre fuera ese tipo de madre.{/i}"
+    mc "{b}No me había dado cuenta de que tu madre fuera ese tipo de madre.{/b}"
 
 # game/story.rpy:893
 translate spanish story_961e3a86:
@@ -3422,7 +3422,7 @@ translate spanish story_961e3a86:
 translate spanish story_20d2feab:
 
     # mc "{b}It's fine. I can deal.{/b}"
-    mc "{i}No pasa nada. Puedo soportarlo.{/i}"
+    mc "{b}No pasa nada. Puedo soportarlo.{/b}"
 
 # game/story.rpy:895
 translate spanish story_fe91987b:
@@ -3446,7 +3446,7 @@ translate spanish story_47db4027:
 translate spanish story_fcf97fcb:
 
     # mc "{b}No, don't be. I'm scared too, believe me. Also, thank you for believing me about this world being a game.{/b}"
-    mc "{i}No, no lo sientas. Yo también estoy asustado, créeme. Además, gracias por creerme con lo de que este mundo es un videojuego.{/i}"
+    mc "{b}No, no lo sientas. Yo también estoy asustado, créeme. Además, gracias por creerme con lo de que este mundo es un videojuego.{/b}"
 
 # game/story.rpy:903
 translate spanish story_6c977a5e:
@@ -3458,7 +3458,7 @@ translate spanish story_6c977a5e:
 translate spanish story_92e187d7:
 
     # mc "{b}That's understandable. But I promise that it's the truth. I wouldn't make something that silly up in this situation.{/b}"
-    mc "{i}Es comprensible. Pero te prometo que es la verdad. No me inventaría una tontería así en una situación como esta.{/i}"
+    mc "{b}Es comprensible. Pero te prometo que es la verdad. No me inventaría una tontería así en una situación como esta.{/b}"
 
 # game/story.rpy:905
 translate spanish story_153e6531:
@@ -3470,7 +3470,7 @@ translate spanish story_153e6531:
 translate spanish story_e5a68a76:
 
     # mc "{b}I understand.{/b}"
-    mc "{i}Ya, lo entiendo.{/b}"
+    mc "{b}Ya, lo entiendo.{/b}"
 
 # game/story.rpy:907
 translate spanish story_c4f6fd8b:
@@ -3506,25 +3506,25 @@ translate spanish story_8a7918fb:
 translate spanish story_61603dd1:
 
     # mc "Ugh, it's not a date..."
-    mc "Uf, que no es una cita..."
+    mc "Arg, que no es una cita..."
 
 # game/story.rpy:915
 translate spanish story_ff7e6a43:
 
     # mom 5bd "Awww, my sweet boy is blushing."
-    mom 5bd "Halaaa, mi niño precioso se ha sonrojado."
+    mom 5bd "Pero bueeeno, mi niño precioso se ha sonrojado."
 
 # game/story.rpy:917
 translate spanish story_61f6ea93:
 
     # cm "{i}Yeah...just take it. She's pretty persistent when it comes to this. She did the same thing with Aiko when she went out on dates.{/i}"
-    cm "{i}Sí... Acéptalo y ya. Es muy insistente con estas cosas. Hizo lo mismo con Aiko cuando tenía citas.{/i}"
+    cm "{i}Sí... Tómalo, ya. Es muy insistente con estas cosas. Hizo lo mismo con Aiko cuando salía de citas.{/i}"
 
 # game/story.rpy:918
 translate spanish story_24d07c3b:
 
     # mc "{b}Really?{/b}"
-    mc "{i}¿En serio?{/i}"
+    mc "{b}¿En serio?{/b}"
 
 # game/story.rpy:919
 translate spanish story_eddf3385:
@@ -3536,7 +3536,7 @@ translate spanish story_eddf3385:
 translate spanish story_aea76108:
 
     # mc "{b}...Okay, fair enough.{/b}"
-    mc "{i}Vale, me parece justo.{/i}"
+    mc "{b}Vale, me parece justo.{/b}"
 
 # game/story.rpy:921
 translate spanish story_eaf6d4e4:
@@ -3560,7 +3560,7 @@ translate spanish story_8c69b0e9:
 translate spanish story_a0c5bd55:
 
     # "She heads back inside."
-    "Vuelve adentro."
+    "Vuelve a entrar."
 
 # game/story.rpy:929
 translate spanish story_1ff263b1:
@@ -3572,13 +3572,13 @@ translate spanish story_1ff263b1:
 translate spanish story_9c9eab67:
 
     # "A cold autumn breeze immediately washes over me and I inhale out of reflex."
-    "Inmediatamente, una brisa fría de otoño me azota e inhalo por reflejo."
+    "Inmediatamente, una brisa fría de otoño me recorre e inhalo por reflejo."
 
 # game/story.rpy:937
 translate spanish story_8d221767:
 
     # "Chilly!"
-    "¡Qué rasca!"
+    "¡Qué frío!"
 
 # game/story.rpy:938
 translate spanish story_ca388b2e:
@@ -3614,7 +3614,7 @@ translate spanish story_4b3d8a19:
 translate spanish story_bebc74d2:
 
     # mc "So, where's Sayori's place?"
-    mc "Y bien, ¿dónde vive Sayori?"
+    mc "Bueno, ¿dónde vive Sayori?"
 
 # game/story.rpy:944
 translate spanish story_3b45d186:
@@ -3740,7 +3740,7 @@ translate spanish story_6512474b:
 translate spanish story_7add58eb:
 
     # "...Whoa..."
-    "Hostia..."
+    "Vaya..."
 
 # game/story.rpy:986
 translate spanish story_d1411dfd:
@@ -3758,7 +3758,7 @@ translate spanish story_0b735e89:
 translate spanish story_4ada9b78:
 
     # "Her mom? No way! She looks way too young!"
-    "¿Su madre? ¡No fastidies! ¡Parece demasiado joven!"
+    "¿Su madre? ¡No puede ser! ¡Parece demasiado joven!"
 
 # game/story.rpy:989
 translate spanish story_f6a4259c:
@@ -3776,7 +3776,7 @@ translate spanish story_3ec3f926:
 translate spanish story_bd9bd67c:
 
     # mc "Heh, well I invited Sayori to spend the day with me. I hope that's alright. It was a spur of the moment thing."
-    mc "Je, je, bueno, he invitado a Sayori a pasar el día conmigo. Espero que no le importe. Ha sido un arrebato."
+    mc "Je, bueno, he invitado a Sayori a pasar el día conmigo. Espero que no le importe. Ha sido un arrebato."
 
 # game/story.rpy:993
 translate spanish story_b67cc7dc:
@@ -3836,7 +3836,7 @@ translate spanish story_10bef510:
 translate spanish story_377e68d6:
 
     # sm 4 "Now, if you'll excuse me, I've got some cooking to do."
-    sm 4 "Ahora, si me disculpas, tengo comida que preparar."
+    sm 4 "Ahora, si me disculpas, tengo que ponerme a cocinar."
 
 # game/story.rpy:1007
 translate spanish story_87add3f5:
@@ -3902,20 +3902,19 @@ translate spanish story_7660412d:
 translate spanish story_787cf0d3:
 
     # s 4hj "Moooom! Meanie..."
-    s 4hj "¡Mamááá!"
-    s "Malo..."
+    s 4hj "¡Mamááá! ¡Malo..."
 
 # game/story.rpy:1022
 translate spanish story_4ef038e9:
 
     # "Sayori directs that last word at me."
-    "Sayori me dirige esa última palabra a mí."
+    "Sayori me dirige esa última palabra."
 
 # game/story.rpy:1023
 translate spanish story_ff388ea6:
 
     # "You know, I bet Meiji's mom and Sayori's mom are best friends from how similar they are."
-    "La verdad, me apuesto lo que sea a que la madre de Meiji y la de Sayori son íntimas amigas por lo mucho que se parecen."
+    "La verdad, me apuesto lo que sea a que la madre de Meiji y la de Sayori son grandes amigas por lo mucho que se parecen."
 
 # game/story.rpy:1024
 translate spanish story_364a1910:
@@ -3963,13 +3962,13 @@ translate spanish story_b8046419:
 translate spanish story_a1487f3b:
 
     # "As Sayori gets her belongings, I decide to tease everyone at once. I call out to the kitchen."
-    "Mientras ella recoge sus cosas, decido pinchar a todo el mundo a la vez. Llamo a la cocina."
+    "Mientras ella recoge sus cosas, decido pinchar a todo el mundo a la vez. Llamo hacia la cocina."
 
 # game/story.rpy:1038
 translate spanish story_7f1ae952:
 
     # mc "Thank you for letting me borrow your daughter. I'll have her home before dinner."
-    mc "Gracias por dejarme tomar prestada a su hija. La traeré de vuelta antes de cenar."
+    mc "Gracias por prestarme a su hija. La traeré de vuelta antes de cenar."
 
 # game/story.rpy:1039
 translate spanish story_bd1e876d:
