@@ -3189,7 +3189,7 @@ translate spanish story_b1e748c3:
 translate spanish story_500b2c10:
 
     # dad 4c "But didn't Sakura Academy's Literature Club shut down during Aiko's last year?"
-    dad 4c "Pero, ¿no cerró el Club de Literatura del Sakura Academy durante el último año de Aiko?"
+    dad 4c "Pero, ¿no cerró el Club de Literatura de la Academia Sakura durante el último año de Aiko?"
 
 # game/story.rpy:4144
 translate spanish story_cd639398:
